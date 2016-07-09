@@ -1,1 +1,2 @@
-Add your links to the Production Boards here.
+Add your shared links (dropbox, google, etc.) to the Production Boards here. 
+***All drawings should be rendered with a resloution of (at least) 1920x1080p
